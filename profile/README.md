@@ -2,7 +2,7 @@
 
 ## About Us 🌎
 
-We are a diverse & inclusive community of 180+ members worldwide who are passionate about open source and love to contribute to open source projects.
+We are a diverse & inclusive community of 190+ members worldwide who are passionate about open source and love to contribute to open source projects.
 
 We welcome all developers from beginners to experts to join our community and make their first open source contribution here.
 
